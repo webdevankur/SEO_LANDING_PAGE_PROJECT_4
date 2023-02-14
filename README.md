@@ -7,7 +7,7 @@ SEO_landing_Page_Project_4
 
 ## Project Link👇
 
-[click here to see the project](https://famous-yeot-ac3444.netlify.app/)
+[click here to see the project](https://magnificent-biscuit-7aa40b.netlify.app/)
 
 ## Project Thumbnail👇
 
